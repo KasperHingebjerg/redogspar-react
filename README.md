@@ -7,4 +7,7 @@ Alt data kommer fra Salling Groups API: https://developer.sallinggroup.com/
 
 Live: https://redogspar.glitch.me/
 
+Frontend: https://github.com/KasperHingebjerg/redogspar-react
+
 Backend: https://github.com/KasperHingebjerg/redogspar
+
